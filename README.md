@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronmatto&label=Profile%20views&color=0e75b6&style=flat" alt="aaronmatto" /> </p>
 <br>
 
-<p>I’m currently learning Python & React and improving my skills in JS and SQL. 📈
+<p>I’m currently learning React and improving my skills in JS and SQL. 📈
 I’m always looking to collaborate on any project to develop my knowledge of programming, so feel free to reach out. 👋🏽 </p>
 
 <p>I have recently completed a web-dev course at Le Wagon learning Ruby (inc Rails), JS, HTML, CSS & SQL. This included the completion of several full-scale projects including an AirBnB 🛩 clone, a Movie Watch-list app 🍿 and p-Ka, an app that lets users see comprhensive nutritrional and allergen information and more. 🔎
