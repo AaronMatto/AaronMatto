@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
-<h3 align="center">An ambitious frontend developer based in London</h3>
+<h3 align="center">An ambitious frontend developer based in London 🇬🇧</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronmatto&label=Profile%20views&color=0e75b6&style=flat" alt="aaronmatto" /> </p>
