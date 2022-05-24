@@ -9,7 +9,7 @@
 
 <p>I have recently completed a web-dev course at Le Wagon learning Ruby (inc Rails), JS, HTML, CSS & SQL. This included the completion of several full-scale projects including an AirBnB 🛩 clone, a Movie Watch-list app 🍿 and p-Ka, an app that lets users see comprhensive nutritrional and allergen information and more. 🔎
 <br>  
-Previous to this I self-taught some JS/HTML/CSS and built some basic apps. 🛠
+Previous to this I self-taught some JS/HTML/CSS and built some basic apps. 🛠 <br>
 Currently learning Java then Python before formally studying Algorithms and Data Structures. Once complete, I am going to build visualisers for commonly used algorithms!</p>
 
 <p> 📫 How to reach me: mattoaaron@gmail.com </p>
